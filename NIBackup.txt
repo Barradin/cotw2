@@ -1,0 +1,50 @@
+7,Australia,-1,-1
+10,Brazil,12,-1
+5,China,3,1
+24,Dominican Republic,-1,-1
+2,Egypt,18,9
+19,France,-1,15
+1,Greece,-1,16
+15,Hungary,-1,-1
+35,India,7,2
+26,Jordan,-1,-1
+28,Kenya,19,23
+34,Liechtenstein,-1,-1
+14,Mexico,10,-1
+25,Nigeria,6,20
+22,Oman,-1,-1
+13,Palestine,21,22
+21,Qatar,-1,-1
+30,Russian Federation,5,8
+31,Sweden,-1,-1
+11,Turkey,17,-1
+8,United States,4,11
+29,Venezuela,-1,13
+17,Wallis and Futuna,-1,-1
+9,Yugoslavia,24,-1
+16,Zimbabwe,14,-1
+7,Australia,-1,-1
+10,Brazil,12,-1
+5,China,3,1
+24,Dominican Republic,-1,-1
+2,Egypt,18,9
+19,France,-1,15
+1,Greece,-1,16
+15,Hungary,-1,-1
+35,India,7,2
+26,Jordan,-1,-1
+28,Kenya,19,23
+34,Liechtenstein,-1,-1
+14,Mexico,10,-1
+25,Nigeria,6,20
+22,Oman,-1,-1
+13,Palestine,21,22
+21,Qatar,-1,-1
+30,Russian Federation,5,8
+31,Sweden,-1,-1
+11,Turkey,17,-1
+8,United States,4,11
+29,Venezuela,-1,13
+17,Wallis and Futuna,-1,-1
+9,Yugoslavia,24,-1
+16,Zimbabwe,14,-1
